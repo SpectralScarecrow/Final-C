@@ -1,0 +1,39 @@
+{
+	"name": "Event sheet 1",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-collision-with-another-object",
+					"objectClass": "MagicExpansion",
+					"sid": 133198159941574,
+					"parameters": {
+						"object": "player"
+					}
+				}
+			],
+			"actions": [],
+			"sid": 225754176614623
+		},
+		{
+			"eventType": "block",
+			"conditions": [],
+			"actions": [],
+			"sid": 145040563888010
+		},
+		{
+			"eventType": "block",
+			"conditions": [],
+			"actions": [],
+			"sid": 382368492148717
+		},
+		{
+			"eventType": "block",
+			"conditions": [],
+			"actions": [],
+			"sid": 195082351451179
+		}
+	],
+	"sid": 607571918746669
+}
