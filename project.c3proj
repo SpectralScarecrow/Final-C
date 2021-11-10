@@ -138,7 +138,10 @@
 			"Sprite2",
 			"Cloud1",
 			"Cloud2",
-			"Cloud3"
+			"Cloud3",
+			"mossplat",
+			"tilehorizontal",
+			"bgforest1"
 		],
 		"subfolders": []
 	},
