@@ -9,7 +9,7 @@
 		{
 			"type": "plugin",
 			"id": "Keyboard",
-			"name": "Keyboard",
+			"name": "Clavier",
 			"author": "Scirra",
 			"version": "r268",
 			"bundled": false
@@ -25,7 +25,7 @@
 		{
 			"type": "plugin",
 			"id": "PlatformInfo",
-			"name": "Platform info",
+			"name": "Info plate-forme",
 			"author": "Scirra",
 			"version": "r268",
 			"bundled": false
@@ -33,7 +33,7 @@
 		{
 			"type": "plugin",
 			"id": "TiledBg",
-			"name": "Tiled Background",
+			"name": "Arrière-plan Répété",
 			"author": "Scirra",
 			"version": "r268",
 			"bundled": false
@@ -41,7 +41,15 @@
 		{
 			"type": "plugin",
 			"id": "Text",
-			"name": "Text",
+			"name": "Texte",
+			"author": "Scirra",
+			"version": "r268",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Tilemap",
+			"name": "Tuilage",
 			"author": "Scirra",
 			"version": "r268",
 			"bundled": false
@@ -49,7 +57,7 @@
 		{
 			"type": "behavior",
 			"id": "Platform",
-			"name": "Platform",
+			"name": "Plate-forme",
 			"author": "Scirra",
 			"version": "r268",
 			"bundled": false
@@ -57,7 +65,7 @@
 		{
 			"type": "behavior",
 			"id": "scrollto",
-			"name": "Scroll To",
+			"name": "Défiler vers",
 			"author": "Scirra",
 			"version": "r268",
 			"bundled": false
@@ -65,7 +73,15 @@
 		{
 			"type": "behavior",
 			"id": "solid",
-			"name": "Solid",
+			"name": "Solide",
+			"author": "Scirra",
+			"version": "r268",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "Bullet",
+			"name": "Projectile",
 			"author": "Scirra",
 			"version": "r268",
 			"bundled": false
@@ -86,7 +102,6 @@
 			"ground",
 			"Layer1Txture",
 			"Sky",
-			"Cloud",
 			"invisibleWall",
 			"sun",
 			"opening",
@@ -116,7 +131,14 @@
 			"lifty",
 			"platformwallfloor3",
 			"Sprite",
-			"Layer3"
+			"Layer3",
+			"Forest",
+			"SurfaceGrass",
+			"ArrièreplanRépété",
+			"Sprite2",
+			"Cloud1",
+			"Cloud2",
+			"Cloud3"
 		],
 		"subfolders": []
 	},

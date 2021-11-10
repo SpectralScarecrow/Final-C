@@ -33,6 +33,12 @@
 			"conditions": [],
 			"actions": [],
 			"sid": 195082351451179
+		},
+		{
+			"eventType": "block",
+			"conditions": [],
+			"actions": [],
+			"sid": 566396740777183
 		}
 	],
 	"sid": 607571918746669

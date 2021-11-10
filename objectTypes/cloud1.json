@@ -1,41 +1,47 @@
 {
-	"name": "Layer1Txture",
+	"name": "Cloud1",
 	"plugin-id": "Sprite",
-	"sid": 396529050915571,
+	"sid": 951346132126906,
 	"isGlobal": false,
 	"instanceVariables": [],
-	"behaviorTypes": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Bullet",
+			"name": "Projectile",
+			"sid": 563914849892983
+		}
+	],
 	"effectTypes": [],
 	"animations": {
 		"items": [
 			{
 				"frames": [
 					{
-						"width": 640,
-						"height": 368,
+						"width": 92,
+						"height": 30,
 						"originX": 0.5,
 						"originY": 0.5,
 						"originalSource": "",
 						"exportFormat": "png",
 						"exportQuality": 0.8,
-						"imageSpriteId": 269295,
+						"imageSpriteId": 3092648,
 						"collisionPoly": {
 							"points": [
-								0,
-								0,
+								0.1956521739130435,
+								0.6,
 								0.5,
-								0,
-								0.9984375,
-								0,
-								0.9984375,
+								0.03333333333333333,
+								0.8369565217391305,
+								0.4666666666666667,
+								0.8695652173913043,
 								0.5,
-								0.9984375,
-								0.9972826086956522,
+								0.9347826086956522,
+								0.8,
 								0.5,
-								0.9972826086956522,
-								0,
-								0.9972826086956522,
-								0,
+								0.9,
+								0.021739130434782608,
+								0.9,
+								0.2934782608695652,
 								0.5
 							]
 						},
@@ -43,7 +49,7 @@
 						"duration": 1
 					}
 				],
-				"sid": 263856465354291,
+				"sid": 961540015837582,
 				"name": "Animation 1",
 				"isLooping": false,
 				"isPingPong": false,
