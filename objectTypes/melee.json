@@ -1,23 +1,10 @@
 {
-	"name": "enemy",
+	"name": "melee",
 	"plugin-id": "Sprite",
-	"sid": 173152311289256,
+	"sid": 644979353158975,
 	"isGlobal": false,
-	"instanceVariables": [
-		{
-			"name": "face",
-			"type": "number",
-			"desc": "at zero face right, at 1 face left",
-			"sid": 271566377346849
-		}
-	],
-	"behaviorTypes": [
-		{
-			"behaviorId": "Platform",
-			"name": "Platform",
-			"sid": 595638401041973
-		}
-	],
+	"instanceVariables": [],
+	"behaviorTypes": [],
 	"effectTypes": [],
 	"animations": {
 		"items": [
@@ -31,12 +18,12 @@
 						"originalSource": "",
 						"exportFormat": "png",
 						"exportQuality": 0.8,
-						"imageSpriteId": 5329914,
+						"imageSpriteId": 9855915,
 						"useCollisionPoly": true,
 						"duration": 1
 					}
 				],
-				"sid": 258871225731956,
+				"sid": 969939751005936,
 				"name": "Animation 1",
 				"isLooping": false,
 				"isPingPong": false,

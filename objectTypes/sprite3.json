@@ -1,14 +1,14 @@
 {
-	"name": "cicadaBoss1",
+	"name": "Sprite3",
 	"plugin-id": "Sprite",
-	"sid": 686295434921727,
+	"sid": 754491436343070,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [
 		{
-			"behaviorId": "Turret",
-			"name": "Turret",
-			"sid": 688061410142232
+			"behaviorId": "Bullet",
+			"name": "Bullet",
+			"sid": 871284137318595
 		}
 	],
 	"effectTypes": [],
@@ -17,31 +17,19 @@
 			{
 				"frames": [
 					{
-						"width": 252,
-						"height": 233,
+						"width": 250,
+						"height": 250,
 						"originX": 0.5,
-						"originY": 0.4721030042918455,
+						"originY": 0.5,
 						"originalSource": "",
 						"exportFormat": "png",
 						"exportQuality": 0.8,
-						"imageSpriteId": 4346251,
-						"collisionPoly": {
-							"points": [
-								0.003968253968253968,
-								0,
-								0.996031746031746,
-								0,
-								0.996031746031746,
-								1,
-								0.003968253968253968,
-								1
-							]
-						},
+						"imageSpriteId": 3649771,
 						"useCollisionPoly": true,
 						"duration": 1
 					}
 				],
-				"sid": 754376522405795,
+				"sid": 533607070894093,
 				"name": "Animation 1",
 				"isLooping": false,
 				"isPingPong": false,
