@@ -1,0 +1,57 @@
+{
+	"name": "bgforest1",
+	"plugin-id": "Sprite",
+	"sid": 948900209960656,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 930,
+						"height": 416,
+						"originX": 0.5,
+						"originY": 0.04447115384615385,
+						"originalSource": "",
+						"exportFormat": "png",
+						"exportQuality": 0.8,
+						"imageSpriteId": 2943074,
+						"collisionPoly": {
+							"points": [
+								0.40860215053763443,
+								0.002403846153846154,
+								0.5,
+								0.002403846153846154,
+								0.5903225806451613,
+								0.002403846153846154,
+								0.9978494623655914,
+								0.04447115384615385,
+								0.9978494623655914,
+								0.9951923076923077,
+								0.5,
+								0.9951923076923077,
+								0.001075268817204301,
+								0.9951923076923077,
+								0.001075268817204301,
+								0.04447115384615385
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 522595442769458,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}
